@@ -1,0 +1,12 @@
+Good Evening Sir,
+
+Today, I have completed following topics:
+
+What is JavaScript Why we need JavaScript. 2 hours
+Coding convention of JavaScript.  
+<script> Tag  Right place to put script in code.
+What are the benefits of it.
+In which condition we will choose which place.
+
+Following are in progress:
+Arithmetic, String, comparison, logical and bitwise operators Operation
